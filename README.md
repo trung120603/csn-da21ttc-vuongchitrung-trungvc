@@ -14,4 +14,4 @@
 + Visual studio 2022
 + SQL server 2008
 + Power designer
-+ thiết kế cơ sở dữ liệu 
+-Đã thiết kế cơ sở dữ liệu 
